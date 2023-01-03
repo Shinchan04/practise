@@ -155,7 +155,7 @@
               <img src="assets/images/highlights/warehouse.png" alt="Warehouse">
             </span>
             <div class="description_wrapper">
-              <p>9500 Warehouse</p>
+              <p>10,000 Warehouse</p>
               <p>Network</p>
             </div>
           </div>
@@ -175,8 +175,8 @@
               <img src="assets/images/highlights/loan.png" alt="Loan Disbursed">
             </span>
             <div class="description_wrapper">
-              <p>&#8377; 25B+ Loan Disbursed</p>
-              <p>2,500+ Mn MT Throughput</p>
+              <p>&#8377; 26B+ Loan Disbursed</p>
+              <p>2,700+ Mn MT Throughput</p>
             </div>
           </div>
         </div>
@@ -276,7 +276,7 @@ Digitally Unified Agri Ecosystem Listing; Agri Trading and Agri Fintech.
           </div>
           <div class="services-one__single-content text-center">
             <h3><a href="{{url('commodity.html')}}">Agri Warehousing <br> Management</a></h3>
-            <p>Complete warehousing solutions. <br />9,500 warehouses network. <br /> 78 Mn Sq Ft Capacity Agri
+            <p>Complete warehousing solutions. <br />10,000 warehouses network. <br /> 78 Mn Sq Ft Capacity Agri
               Warehouse. </p>
               <a href="{{url('commodity.html')}}" class="read-more-btn"><span class="icon-right-arrow-2"></span></a>
           </div>
@@ -334,7 +334,7 @@ Digitally Unified Agri Ecosystem Listing; Agri Trading and Agri Fintech.
         <a href="{{url('procurement.html')}}">
           <div class="services-one__single-img">
             <div class="services-one__single-img-inner">
-              <img loading="lazy" src="assets/images/services/services-v1-img4.jpg" alt="" />
+              <img loading="lazy" src="assets/images/services/services-v1-img40.jpg" alt="" />
             </div>
             <div class="services-one__single-img-icon">
               <span class="icon-shopping-cart"></span>

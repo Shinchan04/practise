@@ -218,8 +218,8 @@
                                     <p><i class="fa fa-map-marker-alt">&nbsp;</i>316, Milandas Manore, 3rd Floor, RNT Marg,
                                         Opp. TI Mall, Near Hotel Lemon Tree, Indore (M.P) Pin - 452001
                                         <br />
-                                        <i class="fa fa-user">&nbsp;</i> Hemendra Nagar </br>
-                                        <i class="fa fa-mobile-alt">&nbsp;</i>9425035275
+                                        <i class="fa fa-user">&nbsp;</i> Yashwant Purohit </br>
+                                        <i class="fa fa-mobile-alt">&nbsp;</i>8878940296
                                     </p>
                                 </div>
                             </div>
@@ -242,9 +242,9 @@
                                     <p><i class="fa fa-map-marker-alt">&nbsp;</i>SF03 Shivam Tower, 68 Maqbara Road,
                                         Hazratganj, Lucknow, Pin - 226001
                                         <br />
-                                        <i class="fa fa-user">&nbsp;</i> Saurabh Mishra
+                                        <i class="fa fa-user">&nbsp;</i> Pawan Kumar
                                         </br>
-                                        <i class="fa fa-mobile-alt">&nbsp;</i>9455181999
+                                        <i class="fa fa-mobile-alt">&nbsp;</i>9627009222
                                     </p>
                                 </div>
                             </div>
@@ -271,9 +271,9 @@
 
 
                                         <br />
-                                        <i class="fa fa-user">&nbsp;</i> Satish Chandak
+                                        <i class="fa fa-user">&nbsp;</i> Sameer Deshkar
                                         </br>
-                                        <i class="fa fa-mobile-alt">&nbsp;</i>8766779337
+                                        <i class="fa fa-mobile-alt">&nbsp;</i>9325398926
                                     </p>
                                 </div>
                             </div>
@@ -286,9 +286,9 @@
 
 
                                         <br />
-                                        <i class="fa fa-user">&nbsp;</i> Ashok Kumar
+                                        <i class="fa fa-user">&nbsp;</i> Amit Nara
                                         </br>
-                                        <i class="fa fa-mobile-alt">&nbsp;</i>8053299006
+                                        <i class="fa fa-mobile-alt">&nbsp;</i>8684932877
                                     </p>
                                 </div>
                             </div>

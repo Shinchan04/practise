@@ -34,7 +34,7 @@
                     <div class="about-three__content-box-inner">
                         <h2>One Stop Post-Harvest Agri-Logistics Platform</h2>
                         <p>
-                        Founded in 2009, Sohan Lal Commodity Management Pvt. Ltd. (SLCM) Group offers technology-driven warehousing services such as scientific storage for agriculture commodities, fumigation, testing and certification and funding against storage receipts in India and Myanmar. A player in the global post-harvest space, SLCM is ISO 9001: 2015, ISO 22000: 2018, ISO 33000, ISO 14001:2015 and ISO 45001:2018 certified group. SLCM warehouse management service is equipped with state-of-the-art technology to offer storage and protection services for the entire range of agricultural commodities. The company provides services to the entire agriculture ecosystem including farmers, processors, millers, traders, importers, exporters, commodity exchanges and the central and state governments. SLCM till date has handled more than 1090 agricultural commodities including Cotton, Barley, Bajra, Castor Seeds, Wheat, Pulses, Maize, Spices, Aloe Vera, etc. The company currently has a network of more than 9,500 warehouses and has disbursed loans worth more than INR 25 billion over the last three years through its wholly owned subsidiary Kissandhan business unit. SLCM Group directly touched the livelihoods of over 5.00 crore people and positively impacted the lives of 23.00 crores people. The company till date has received awards and recognitions across various categories like commodity warehousing services, financing, and technology applications in the agriculture sector. SLCM’s employee-first approach has been widely commended through honours like Times Ascent ‘Dream Companies to Work For’ and ET Now’s ‘Rise With India Dream Companies to Work For'. 
+                        Founded in 2009, Sohan Lal Commodity Management Pvt. Ltd. (SLCM) Group offers technology-driven warehousing services such as scientific storage for agriculture commodities, fumigation, testing and certification and funding against storage receipts in India and Myanmar. A player in the global post-harvest space, SLCM is ISO 9001: 2015, ISO 22000: 2018, ISO 33000, ISO 14001:2015 and ISO 45001:2018 certified group. SLCM warehouse management service is equipped with state-of-the-art technology to offer storage and protection services for the entire range of agricultural commodities. The company provides services to the entire agriculture ecosystem including farmers, processors, millers, traders, importers, exporters, commodity exchanges and the central and state governments. SLCM till date has handled more than 1090 agricultural commodities including Cotton, Barley, Bajra, Castor Seeds, Wheat, Pulses, Maize, Spices, Aloe Vera, etc. The company currently has a network of more than 10,000 warehouses and has disbursed loans worth more than INR 25 billion over the last three years through its wholly owned subsidiary Kissandhan business unit. SLCM Group directly touched the livelihoods of over 5.00 crore people and positively impacted the lives of 24.00 crores people. The company till date has received awards and recognitions across various categories like commodity warehousing services, financing, and technology applications in the agriculture sector. SLCM’s employee-first approach has been widely commended through honours like Times Ascent ‘Dream Companies to Work For’ and ET Now’s ‘Rise With India Dream Companies to Work For'. 
                         </p>
                     </div>
                 </div>
@@ -106,7 +106,7 @@ Digitally Unified Agri Ecosystem Listing; Agri Trading and Agri Fintech.
                         <h2 class="sec-title__title">Company Overview</h2>
                     </div>
                     <div class="about-three__content-box-inner">
-                        <p>SLCM Group till date has managed a technology enabled network of 9,500 warehouses and 36+ cold storages pan India with a total capacity of over 20.872 Million metric tonnes spread over 1400.00+ Million square feet area and a throughput of more than 2500.00 Million metric tonnes.</p>
+                        <p>SLCM Group till date has managed a technology enabled network of 10,000 warehouses and 36+ cold storages pan India with a total capacity of over 2,700 Million metric tonnes spread over 2000.00+ Million square feet area and a throughput of more than 2700.00 Million metric tonnes.</p>
                         <p>Our warehouses are equipped with top-of-the-line communication facilities to enable real time visibility and availability of data to our clients. A team of experienced, well trained, qualified professional staff manages the operations at each warehouse, which is further controlled from our centralized office in Delhi through continuous audits and inspections. The connectivity of our warehouses through advanced technology enables us to meet critical requirements of the clients like online data dissemination and provision of periodical MIS.</p>
 
                         <p>In a country like India where post-harvest losses are pegged at 10%, SLCM has been instrumental in devising technology enabled solution that has cut post-harvest losses to 0.5% irrespective of infrastructure, crop or geographic location. This has been clearly demonstrated by SLCM Group and validated by the detailed study of FICCI – Partnership to Scale New Heights: India-US Collaboration in Agriculture, dated March, 2015.</p>
@@ -194,7 +194,7 @@ Digitally Unified Agri Ecosystem Listing; Agri Trading and Agri Fintech.
                                     <img src="assets/images/highlights/warehouse.png" alt="mandis">
                                 </div>
                                 <div class="content">
-                                    <h3>9,500+</h3>
+                                    <h3>10,000+</h3>
                                     <p class="story-one__counters-box-single-text">Warehouse</p>
                                 </div>
                             </li>
@@ -218,7 +218,7 @@ Digitally Unified Agri Ecosystem Listing; Agri Trading and Agri Fintech.
                                     <img src="assets/images/highlights/loan.png" alt="mandis">
                                 </div>
                                 <div class="content">
-                                    <h3><small>₹25+</small> </h3>
+                                    <h3><small>₹26+</small> </h3>
                                     <p class="story-one__counters-box-single-text" style="font-size:13px">Billion Loan Disbursed</p>
                                 </div>
                             </li>

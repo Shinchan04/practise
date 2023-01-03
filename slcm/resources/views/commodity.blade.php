@@ -39,8 +39,8 @@
                                         <h4>Logistics</h4>
                                     </div> -->
                                     <p class="mb-20">SLCM since its inception in 2009 has defined and implemented systems and scientific processes which are making agriculture logistics independent of infrastructure and agnostic to geographical location irrespective of the crop.</p>
-                                    <p class="mb-20">Headquartered in New Delhi, SLCM commands presence across India covering more than 22 states by managing more than 9500+ Locations (Warehouse Network), 36+ Cold Storages, and 100+ Million Sq. Ft. of Area and a Throughput of more than 1000 Million MT.</p>
-                                    <p>Expanding SLCM operations, SLCM Ltd. was established in Yangon region of Myanmar in April, 2014. SLCM Ltd. Myanmar is managing a network of more than 300 Industrial Zones and managing more than 6 Million Sq. Ft. of Area by handling more than 500+ commodities and Throughput of more than 11 Million MT.Warehousing Services can be broadly classified into categories mentioned here under.</p>
+                                    <p class="mb-20">Headquartered in New Delhi, SLCM commands presence across India covering more than 22 states by managing more than 10,000+ Locations (Warehouse Network), 36+ Cold Storages, and 2000+ Million Sq. Ft. of Area and a Throughput of more than 2700 Million MT.</p>
+                                    <p>Expanding SLCM operations, SLCM Ltd. was established in Yangon region of Myanmar in April, 2014. SLCM Ltd. Myanmar is managing a network of more than 300 Industrial Zones and managing more than 6 Million Sq. Ft. of Area by handling more than 1090+ commodities and Throughput of more than 11 Million MT.Warehousing Services can be broadly classified into categories mentioned here under.</p>
                                 </div>
                             </div>
 
@@ -198,7 +198,7 @@
                     <i class="fa fa-check-circle" aria-hidden="true"></i>
                   </div>
                   <div class="text">
-                    <p>Managing 9500+ Locations </p>
+                    <p>Managing 10,000+ Locations </p>
                   </div>
 </div>
                 </li>
@@ -218,7 +218,9 @@
                     <i class="fa fa-check-circle" aria-hidden="true"></i>
                   </div>
                   <div class="text">
-                    <p>1400+ Min Sq. Ft. Area 
+                    <!-- <p>1400+ Min Sq. Ft. Area 
+</p> -->
+<p>2000+ Min Sq. Ft. Area 
 </p>
                   </div>
 </div>
@@ -229,7 +231,7 @@
                     <i class="fa fa-check-circle" aria-hidden="true"></i>
                   </div>
                   <div class="text">
-                    <p>Throughput 2,500+ Min MT 
+                    <p>Throughput 2,700+ Min MT 
 </p>
                   </div>
 </div>

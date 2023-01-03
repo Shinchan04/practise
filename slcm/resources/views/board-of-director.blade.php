@@ -53,7 +53,7 @@
                 </div>
                 <!--End Single Meet bod One-->
 
-                <!--Start Single Meet bod One-->
+                <!-- Start Single Meet bod One -->
                 <div class="col-xl-12 col-lg-12  wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1000ms">
                     <div class="meet-farmers-one__single team_style2">
                         <div class="directors-info">
@@ -71,7 +71,7 @@
 
                                 <p>He has also been a Financial Analyst in the mergers and acquisitions group at the investment banking firm, Houlihan Lokey. While at Houlihan, Tyler focused on mergers and acquisitions advisory and private placements of debt and equity. Tyler received his Bachelor of Business Administration from the McCombs School of Business at the University of Texas at Austin, where he majored in Finance.</p>
 
-                                <!-- Button trigger modal -->
+                                Button trigger modal -->
                                 <div class="readmore-button">
                                     <button data-bs-toggle="modal" data-bs-target="#johnInfo" class="p-0 text-decoration-none thm-btn">
                                         View More <i class="fas fa-chevron-down text-2 ms-1"></i>
@@ -83,7 +83,37 @@
                             </div>
                         </div>
                     </div>
-                    <!--End Single Meet bod One-->
+                    <!-- End Single Meet bod One -->
+
+<div class="col-xl-12 col-lg-12  wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1000ms">
+                    <div class="meet-farmers-one__single team_style2">
+                        <div class="directors-info">
+                            <div class="meet-farmers-one__single-img">
+                                <img src="assets/images/resources/bod/Country_Head_Remika_Agarwal.jpeg" alt="Country Head Remika Agarwal" />
+                               
+                            </div>
+                            <div class="descrition">
+                                <div class="meet-farmers-one__single-title">
+                                    <p>Country Head- India for creation Investment Capital Management, LLC</p>
+                                    <h2><a href="#!">Remika Agarwal</a></h2>
+                                </div>
+                                <p>
+                                <p>Remika Agarwal is the Country Head- India for Creation Investments Capital Management, LLC. She is an accomplished finance professional with over 16 years of financial market experience having worked across NBFCs, MFIs, HFCs, Banks, FinTech and other sectors. She has led Creation's investments in various companies in India and actively works with Creation's India portfolio. She has in her erstwhile roles also launched several innovative products and set up and expanded new verticals. Remika is a qualified risk professional and is a FRM (GARP) and PRM (PRMIA) charter holder. She has completed her MBA in Finance from MDI Gurgaon and BSc in Economics from St. Xaviers' College, Kolkata.</p>
+
+                                
+                                <!-- Button trigger modal -->
+                                <div class="readmore-button">
+                                    <button data-bs-toggle="modal" data-bs-target="#remikaInfo" class="p-0 text-decoration-none thm-btn">
+                                        View More <i class="fas fa-chevron-down text-2 ms-1"></i>
+                                    </button>
+                                </div>
+                                <div class="readmore-overlay"></div>
+
+
+                            </div>
+                        </div>
+                    </div>
+
                     <!--Start Single Meet bod One-->
                     <div class="col-xl-12 col-lg-12  wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1000ms">
                         <div class="meet-farmers-one__single team_style2">
@@ -218,7 +248,7 @@
                                         <!--End Single Meet bod One-->
 
                                         <!--Start Single Meet bod One-->
-                                        <div class="col-xl-12 col-lg-12  wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1000ms">
+                                        <!-- <div class="col-xl-12 col-lg-12  wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1000ms">
                                             <div class="meet-farmers-one__single team_style2">
                                                 <div class="directors-info">
                                                     <div class="meet-farmers-one__single-img">
@@ -230,9 +260,9 @@
                                                             <p>MF Advisor, Mayfield Fund</p>
                                                             <h2><a href="#!">Subeer Monga</a></h2>
                                                         </div>
-                                                        <p>Subeer has been with MF Advisors since 2010 and has worked on investments across the agriculture, consumer, education, financial services, food, logistics, and technology verticals. Prior to joining MF Advisors, Subeer was with HSBC InvestDirect’s Non-banking Finance Company where he worked on various debt transactions. Before HSBC InvestDirect, Subeer was with IL&FS Investmart as part of the equity capital markets investment banking team. Subeer has received a Bachelor’s degree with a Major in Finance and Minor in Economics from the University of Windsor, Canada.</p>
+                                                        <p>Subeer has been with MF Advisors since 2010 and has worked on investments across the agriculture, consumer, education, financial services, food, logistics, and technology verticals. Prior to joining MF Advisors, Subeer was with HSBC InvestDirect’s Non-banking Finance Company where he worked on various debt transactions. Before HSBC InvestDirect, Subeer was with IL&FS Investmart as part of the equity capital markets investment banking team. Subeer has received a Bachelor’s degree with a Major in Finance and Minor in Economics from the University of Windsor, Canada.</p> -->
                                                         <!-- Button trigger modal -->
-                                <div class="readmore-button">
+                                <!-- <div class="readmore-button">
                                     <button data-bs-toggle="modal" data-bs-target="#subeerInfo" class="p-0 text-decoration-none thm-btn">
                                         View More <i class="fas fa-chevron-down text-2 ms-1"></i>
                                     </button>
@@ -240,7 +270,7 @@
                                 <div class="readmore-overlay"></div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                             <!--End Single Meet bod One-->
 
                                         </div>
@@ -315,6 +345,38 @@
         </div>
     </div>
 </div>
+<!-- team member Remika Agarwal Modal -->
+<div class="modal fade team-modal" id="remikaInfo" tabindex="-1" aria-labelledby="teamModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="teamModalLabel">Country Head- India for creation Investment Capital Management, LLC</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="meet-farmers-one__single team_style2 full-content">
+                        <div class="directors-info">
+                            <div class="meet-farmers-one__single-img">
+                                <img src="assets/images/resources/bod/Country_Head_Remika_Agarwal.jpeg" alt="Country Head Remika Agarwal" />
+                               
+                            </div>
+                            <div class="descrition">
+                                <div class="meet-farmers-one__single-title">
+                                    <p>Country Head- India for creation Investment Capital Management, LLC</p>
+                                    <h2><a href="#!">Remika Agarwal</a></h2>
+                                </div>
+                                <p>
+                                <p>Remika Agarwal is the Country Head- India for Creation Investments Capital Management, LLC. She is an accomplished finance professional with over 16 years of financial market experience having worked across NBFCs, MFIs, HFCs, Banks, FinTech and other sectors. She has led Creation's investments in various companies in India and actively works with Creation's India portfolio. She has in her erstwhile roles also launched several innovative products and set up and expanded new verticals. Remika is a qualified risk professional and is a FRM (GARP) and PRM (PRMIA) charter holder. She has completed her MBA in Finance from MDI Gurgaon and BSc in Economics from St. Xaviers' College, Kolkata.</p>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- team member Rahul Rai Modal -->
 <div class="modal fade team-modal" id="rahulInfo" tabindex="-1" aria-labelledby="teamModalLabel" aria-hidden="true">
     <div class="modal-dialog">
@@ -441,7 +503,7 @@
     </div>
 </div>
 <!-- team member Subeer Monga Modal -->
-<div class="modal fade team-modal" id="subeerInfo" tabindex="-1" aria-labelledby="teamModalLabel" aria-hidden="true">
+<!-- <div class="modal fade team-modal" id="subeerInfo" tabindex="-1" aria-labelledby="teamModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -470,7 +532,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!--End Content-->
 
 

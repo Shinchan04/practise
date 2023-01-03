@@ -10,8 +10,11 @@ use App\Management;
 use App\News;
 use App\Vacancies;
 use App\WdraStock;
+use App\Models\Landing;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Redirect;
+
 
 class HomeController extends Controller
 {
@@ -163,6 +166,32 @@ class HomeController extends Controller
             $msg->to($toEmail)->subject("Newsletter - SLCM");
         });
         return true;
+    }
+
+    public function save(Request $request)
+    {
+        //dd("He $request);
+        $this->validate($request, [
+            'name' => 'required',
+            'mobile' => 'required',
+            'business' => 'required',
+            'state' => 'required',
+            'city' => 'required',
+        ]);
+        // dd($request);
+        $Landing = new Landing();
+        //On left field name in DB and on right field name in Form/view/request
+        $Landing->name = $request->input('name');
+        $Landing->mobile = $request->input('mobile');
+        $Landing->business = $request->input('business');
+        $Landing->state = $request->input('state');
+        $Landing->city = $request->input('city');
+        $Landing->save();
+        
+        return \Redirect::to('/Thank-You');
+
+        // return redirect()->back()->with('success', 'Thank you for contacting us we will get back to you shortly!');
+
     }
 
 }

@@ -1,5 +1,5 @@
 
-<section class="company-logos-one" style="padding:30px 0 30px;background:#f6f4ec">
+<!-- <section class="company-logos-one" style="padding:30px 0 30px;background:#f6f4ec">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-sm-7">
@@ -15,7 +15,7 @@
       </div>
     </div>    
   </div>
-</section>
+</section> -->
 
 
 <!--Start Footer One-->

@@ -28,6 +28,11 @@ Route::get('/our-clients.html', function () { return view('our-clients'); });
 Route::get('/tech-inovation.html', function () { return view('tech-inovation'); });
 Route::get('/csr.html', function () { return view('csr'); });
 Route::get('/Achievements.html', [HomeController::class, 'achievements']);
+Route::get('/landingpage', function () { return view('landingpage'); });
+Route::post('/landingpage-save',[HomeController::class, 'save'])->name("landingpage_save");
+Route::get('/services', function () { return view('landingpage1'); });
+Route::get('/Thank-You', function () { return view('thankyou'); });
+
 
 
 Route::get('/commodity.html', function () { return view('commodity'); });
